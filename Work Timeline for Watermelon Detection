@@ -6,3 +6,4 @@ Day Two:
 	* Installing dependencies for tensorflow API
 	* Building and installing 'docker'
 	* Pulling the docker image for tensorflow
+	* Building Tensorflow with bazel
