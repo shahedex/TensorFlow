@@ -7,3 +7,6 @@ Day Two:
 	* Building and installing 'docker'
 	* Pulling the docker image for tensorflow
 	* Building Tensorflow with bazel
+Day Three: 
+	* Building TF pip packages
+	*
