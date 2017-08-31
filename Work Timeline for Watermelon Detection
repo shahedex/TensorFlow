@@ -10,3 +10,6 @@ Day Two:
 Day Three: 
 	* Building TF pip packages
 	* Converting training data to TFRecord files
+	* Downloading 'Inception' via the docker image
+	* Retrainging the framework with a new class
+	* 
