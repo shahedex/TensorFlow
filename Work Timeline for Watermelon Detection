@@ -11,5 +11,8 @@ Day Three:
 	* Building TF pip packages
 	* Converting training data to TFRecord files
 	* Downloading 'Inception' via the docker image
-	* Retrainging the framework with a new class (Transfer Learning)
+	* Retraining the framework with a new class (Transfer Learning)
+	* Testing with demo image classes...(Hit 99% accuracy)
+Day Four:
+	* Rewriting the Inception image_retrainer.py script to feed the training watermelon images
 	* 
