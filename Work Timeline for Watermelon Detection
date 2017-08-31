@@ -9,4 +9,4 @@ Day Two:
 	* Building Tensorflow with bazel
 Day Three: 
 	* Building TF pip packages
-	*
+	* Converting training data to TFRecord files
