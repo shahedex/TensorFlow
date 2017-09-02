@@ -1,21 +1,24 @@
 Day One: 
 	* Downloading training data images from ImageNet
 	* Gathering links and datas for the project
-
+	
 Day Two: 
 	* Installing dependencies for tensorflow API
 	* Building and installing 'docker'
 	* Pulling the docker image for tensorflow
 	* Building Tensorflow with bazel
+	
 Day Three: 
 	* Building TF pip packages
 	* Converting training data to TFRecord files
 	* Downloading 'Inception' via the docker image
 	* Retraining the framework with a new class (Transfer Learning)
 	* Testing with demo image classes...(Hit 99% accuracy)
+
 Day Four:
 	* Rewriting the Inception image_retrainer.py script to feed the training watermelon images
 	* Retraining the inception model with new watermelon images.
+
 Day Five:
 	* Collecting and downloading tensorflow object detection model for spotting the watermelon on the image
 	* Configuring the object detection training pipeline 
