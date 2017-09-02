@@ -15,4 +15,7 @@ Day Three:
 	* Testing with demo image classes...(Hit 99% accuracy)
 Day Four:
 	* Rewriting the Inception image_retrainer.py script to feed the training watermelon images
-	* 
+	* Retraining the inception model with new watermelon images.
+Day Five:
+	* Collecting and downloading tensorflow object detection model for spotting the watermelon on the image
+	* Configuring the object detection training pipeline 
